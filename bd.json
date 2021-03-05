@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "sebastien chirak",
+    "city": "le havre"
+  },
+  {
+    "id": 3,
+    "name": "julien dubois",
+    "city": "toulouse"
+  },
+  {
+    "id": 4,
+    "name": "patrik bensalem",
+    "city": "rabat"
+  },
+  {
+    "id": 5,
+    "name": "soltana bourouina",
+    "city": "algerie"
+  },
+  {
+    "id": 6,
+    "name": "kaci belkadi",
+    "city": "paris"
+  },
+  {
+    "id": 7,
+    "name": "damien saez",
+    "city": "nice"
+  }
+]
